@@ -1,6 +1,8 @@
 # INTERNSHIPS PROJECTS
 
 1. House Price Prediction
+
+   
 Objective: The goal of this project is to predict house prices based on several features such as the number of bedrooms, bathrooms, and square footage.
 Data Preprocessing:
 The dataset is loaded and cleaned by dropping unnecessary columns like 'sqft_above'.
@@ -16,6 +18,8 @@ Visualization techniques such as matplotlib and seaborn are used to display rela
 This project focuses on a basic regression approach for house price prediction, employing common techniques in data cleaning and model evaluation.
 
 2. Location-Based Analytics
+
+
 Objective: This notebook appears to focus on analyzing data related to geographical locations, possibly for market analysis or understanding demographic patterns.
 Tools and Libraries:
 GeoPandas is used for geographic data manipulation.
@@ -30,6 +34,8 @@ There is a strong focus on visualizing spatial data to extract insights.
 This project appears to emphasize geographic data analysis, potentially useful for applications such as location-based marketing, service optimization, or urban planning.
 
 3. Restaurant Ratings Prediction
+
+
 Objective: The task is to predict restaurant ratings based on various features such as restaurant type, location, and other customer or business attributes.
 Data Preprocessing:
 The dataset is loaded and inspected with a focus on understanding the features.
