@@ -39,8 +39,3 @@ Although the model is not explicitly mentioned in the first few cells, it likely
 Visualization:
 The project likely uses scatter plots, correlation heatmaps, and bar charts to uncover trends in the restaurant data and assist with model diagnostics.
 This project aims to forecast restaurant ratings, which could help businesses and consumers by identifying key factors driving customer satisfaction.
-
-4.Wine Quality Prediction
-Objective:
-The primary goal of the wine quality prediction project is to build a model that can predict the quality of wine based on its physicochemical properties (like acidity, alcohol content, and residual sugar). This helps wine producers and sellers assess quality without requiring a human tasting panel for every batch.
-The Wine Quality Prediction model, after proper tuning, can give a good approximation of wine quality. Advanced models like XGBoost tend to perform the best due to their ability to handle complex relationships between features. By automating this prediction, winemakers can maintain consistency and quality control in their production process.
